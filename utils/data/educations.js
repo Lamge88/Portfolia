@@ -3,17 +3,17 @@ export const educations = [
     id: 1,
     title: "Bachelor Degree",
     duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: "Harvard University of United States",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
+    title: "Phillips Exeter Academy in United States",
     duration: "2018 - 2020",
     institution: "Noakhali Islamia Kamil Madrasah",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
+    title: "Cairo English School in Egypt",
     duration: "2008 - 2018",
     institution: "Baitus Saif Islamia Madrasah",
   }

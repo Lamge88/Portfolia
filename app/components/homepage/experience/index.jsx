@@ -65,6 +65,17 @@ function Experience() {
                           <p className="text-sm sm:text-base">
                             {experience.company}
                           </p>
+                          <br></br>
+                          <ul className="text-xs sm:text-sm text-[#3325512]">
+                            {experience.works.map((work,index) => (
+                              <>
+                                <li key={index}>
+                                  {work}
+                                </li>
+                                <br></br>
+                              </>
+                            ))}
+                          </ul>
                         </div>
                       </div>
                     </div>
