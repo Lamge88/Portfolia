@@ -104,7 +104,6 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is Mohamed....",
-  address: "Dhaka, Bangladesh",
   resume: "...",
 };
 ```
