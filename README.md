@@ -100,10 +100,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Mohamed",
+  name: "Mihailo",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Mohamed....",
+  description: "My name is Mihailo....",
   resume: "...",
 };
 ```
